@@ -48,5 +48,5 @@ This project analyzes an HR dataset to extract meaningful insights around attrit
 ## Author
 
 **Kandukuri Harinayan**  
-Connect: [LinkedIn](https://linkedin.com/in/your-profile)  
+Connect: [LinkedIn](https://www.linkedin.com/in/harinayan-kandukuri-ba7123280/)  
 Email: harinayankandukuri1@gmail.com
