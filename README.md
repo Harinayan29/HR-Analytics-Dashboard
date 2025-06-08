@@ -44,7 +44,7 @@ This project analyzes an HR dataset to extract meaningful insights around attrit
 - Excel (Data Source)  
 - Data Modeling Techniques
 
-
+---
 ## Author
 
 **Kandukuri Harinayan**  
