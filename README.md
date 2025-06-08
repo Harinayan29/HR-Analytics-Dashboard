@@ -6,7 +6,7 @@ A Power BI dashboard to visualize and analyze HR data with a focus on attrition,
 
 ## 📸 Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](hr-analytics-dashboard/assets/dashboard.png)
 
 ---
 
